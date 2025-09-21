@@ -32,10 +32,12 @@ MediaPipe Hands dan Google Text-to-Speech (gTTS) dengan Python.
    git clone https://github.com/username/GestureRecognition-GTTS.git
    cd GestureRecognition-GTTS
 2. (Opsional) Buat virtual environment
+   ```bash
     python -m venv venv
     venv\Scripts\activate   # Windows
     source venv/bin/activate # Linux/Mac
 3. Install dependencies
+    ```bash
     pip install -r requirements.txt
 
 ## Cara Menggunakan
